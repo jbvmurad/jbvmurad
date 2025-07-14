@@ -48,7 +48,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuradUsername&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jbvmurad&show_icons=true&theme=default" />
 </p>
 
 ---
