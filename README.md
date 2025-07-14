@@ -19,7 +19,7 @@
 ### 🛠️ Tech Stack
 - 💻 Languages: **C#**, **C++**, **Python**, **SQL**
 - 🌐 Frontend: HTML, CSS, JavaScript
-- 🧰 Tools: ASP.NET Core MVC, Entity Framework, Git & GitHub, Visual Studio  
+- 🧰 Tools: ASP.NET Core MVC,ASP.NET Core Web API, Entity Framework, Git & GitHub, Visual Studio  
 - 🗃️ Database: MS SQL Server  
 - 📊 Version Control: Git
 
