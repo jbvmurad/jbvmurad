@@ -43,7 +43,7 @@
 ### 📫 Connect with Me
 - 🌐 LinkedIn: [Murad Jabiev](www.linkedin.com/in/murad-jabiyev) <!-- Kendi linkini eklemeyi unutma -->
 - 📧 Email: jabiyevmurad02@gmail.com <!-- Kendi mailini eklemeyi unutma -->
-- 🗂️ Portfolio: ([isteğe bağlı bir link](https://github.com/jbvmurad?tab=repositories))
+- 🗂️ Portfolio: ([GitHub Repository](https://github.com/jbvmurad?tab=repositories))
 
 ---
 
