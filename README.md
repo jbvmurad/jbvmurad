@@ -67,7 +67,7 @@
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <!-- Swagger -->
-  <img src="https://www.svgrepo.com/show/354202/swagger.svg" alt="Swagger" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
 </p>
 
 
