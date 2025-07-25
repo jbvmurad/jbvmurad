@@ -17,7 +17,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: **C#**, **C++**, **Python**, **SQL**
+- 💻 Languages: **C#**, **C++**, **Python**
 - 🌐 Frontend: HTML, CSS, JavaScript
 - 🧰 Tools: ASP.NET Core MVC,ASP.NET Core Web API, Entity Framework, Git & GitHub, Visual Studio  
 - 🗃️ Database: MS SQL Server  
@@ -68,6 +68,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <!-- Swagger -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
+  <!-- Docker -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
 
 
