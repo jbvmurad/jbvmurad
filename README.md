@@ -69,3 +69,16 @@
   <img src="https://img.shields.io/badge/MediatR-007ACC?style=flat-square&logo=dotnet&logoColor=white" alt="MediatR" width="80" height="30"/>
   <img src="https://img.shields.io/badge/.NET_Aspire-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Aspire" width="100" height="30"/>
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jbvmurad&show_icons=true&theme=github_dark&hide_title=false&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbvmurad&theme=github-dark&hide_border=true" height="150" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbvmurad&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages" />
+</p>
