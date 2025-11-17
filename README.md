@@ -65,9 +65,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <!-- MediatR and .NET Aspire don't have official icons, so using badges -->
-  <img src="https://img.shields.io/badge/MediatR-007ACC?style=flat-square&logo=dotnet&logoColor=white" alt="MediatR" width="80" height="30"/>
-  <img src="https://img.shields.io/badge/.NET_Aspire-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Aspire" width="100" height="30"/>
 </p>
 
 ---
