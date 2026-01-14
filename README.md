@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Murad Jabiev 👋</h1>
+<h1 align="center">Hi, I'm Murad Jabiev 👋</h1>
 
 <p align="center">
-🎓 Master's Student in Sociology of Management | 💻 C# Backend Developer | 💻 .Net Developer | 🌍 Azerbaijan  
+💻 C# Backend Developer | 💻 .Net Developer | 🌍 Azerbaijan  
 </p>
 
 ---
@@ -10,18 +10,18 @@
 
 - 🎓 **B.A. in Public Administration** – Academy of Public Administration under the President of Azerbaijan  
 - 📚 **Master's Student** at Sumgait State University – Sociology of Management  
-- 💼 Interested in **Governance, Technology, and Digital Solutions**  
-- 🛠️ Currently learning **C#, ASP.NET, SQL, Python, and C++**  
+- 💼 Interested in **Technology and Digital Solutions**  
+- 🛠️ Currently learning **C#, ASP.NET, Python, and C++**  
 - 🏆 Holder of **10+ certificates and appreciation letters**  
 - 🌱 Always learning, building, and improving
 
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: **C#**, **C++**, **Python**, **TypeScript**  
-- 🌐 Frontend: **HTML**, **CSS**, **JavaScript**, **Angular**, **TypeScript**  
+- 💻 Languages: **C#**, **C++**, **Python**,  
+- 🌐 Frontend: **HTML**, **CSS**, **JavaScript**, **Angular**,  **React**
 - 🧰 Frameworks & Tools: **ASP.NET Core MVC**, **ASP.NET Core Web API**, **MediatR**, **.NET Aspire**, **Entity Framework**, **Git & GitHub**, **Visual Studio**  
-- 🗃️ Database: **MS SQL Server**, **MongoDB**  
+- 🗃️ Database: **MS SQL Server**, **MongoDB**, **PostgreSql**  
 - 📦 Other Tools: **Swagger**, **Docker**, **Postman**, **Scalar**  
 - 🔄 Version Control: **Git**
 
@@ -31,14 +31,6 @@
 - 🎓 **E-Book API** – Online books purchasing app similar to E-Commerce  
 - 💳 **Payment Integration Project** – Product-based JS + C# + SQL payment form  
 - 🗂️ **Admin Panel & Contact DB** – Newsletter and contact data management system (ASP.NET MVC)
-
----
-
-### 🎯 2025 Goals
-- 🔸 Build and share real-world projects on GitHub  
-- 🔸 Gain internship or junior developer role  
-- 🔸 Contribute to open-source and develop community skills  
-- 🔸 Improve English and presentation skills  
 
 ---
 
@@ -61,6 +53,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
