@@ -96,21 +96,21 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">🎓 E-Book API</h3>
+      <h3 align="center">📚 ZenBlog</h3>
       <p align="center">
         Online books purchasing app similar to E-Commerce
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">💳 Payment Integration Project</h3>
+      <h3 align="center">📚ZenBlogFullStack</h3>
       <p align="center">
-        Product-based JS + C# + SQL payment form
+        Angular + C# + Docker + Redis + RabbitMq + Aws S3
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🗂️ Admin Panel & Contact DB</h3>
+      <h3 align="center">🗂️ Admin Panel</h3>
       <p align="center">
-        Newsletter and contact data management system (ASP.NET MVC)
+        Admin management system (ASP.NET API + Wolverine fx)
       </p>
     </td>
   </tr>
